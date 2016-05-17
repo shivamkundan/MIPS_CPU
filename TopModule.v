@@ -109,7 +109,4 @@ Control Control_0(Instruct[31:26],
 			 ALUSrc
 			 );
 
-//assign PCOUT = PCOutWire[7:2];
-
-
 endmodule
