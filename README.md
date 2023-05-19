@@ -17,12 +17,12 @@ They are used in embedded systems such as residential routers and automotive sys
 
 ### Datapath Module
 <p align="center">
-  <img src="assets/DataPath_Top.PNG" alt="Datapath" width="100%" height="100%"/>
+  <img src="assets/DataPath_Detailed.PNG" alt="Datapath" width="100%" height="100%"/>
 </p>
 
 ### Control Module
 <p align="center">
-  <img src="assets/Control_Top.PNG" alt="Control" width="100%" height="100%"/>
+  <img src="assets/Control_Detailed.PNG" alt="Control" width="100%" height="100%"/>
 </p>
 
 ## Simulation Results
