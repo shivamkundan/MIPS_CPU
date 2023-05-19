@@ -9,19 +9,25 @@ Implementation of a 32-bit MIPS CPU in Verilog HDL.
 
 They are used in embedded systems such as residential routers and automotive systems. Historically, video game consoles such as the Nintendo 64, Sony PlayStation, PlayStation 2, and PlayStation Portable used MIPS processors.
 
-## Top Module
+## 2.	Synthesized RTL Schematics
+### Top Module
 <p align="center">
-  <img src="assets/Top_Detailed.png" alt="Top" width="100%" height="100%"/>
+  <img src="assets/Top_Detailed.PNG" alt="Top" width="100%" height="100%"/>
 </p>
 
-## Datapath Module
+### Datapath Module
 <p align="center">
-  <img src="assets/DataPath_Top.png" alt="Datapath" width="100%" height="100%"/>
+  <img src="assets/DataPath_Top.PNG" alt="Datapath" width="100%" height="100%"/>
 </p>
 
-## Control Module
+### Control Module
 <p align="center">
-  <img src="assets/Control_Top.png" alt="Control" width="100%" height="100%"/>
+  <img src="assets/Control_Top.PNG" alt="Control" width="100%" height="100%"/>
 </p>
 
 ## Simulation Results
+Shows the waveforms from running fibonacci program in fib.asm
+<p align="center">
+  <img src="assets/Waveform.PNG" alt="Control" width="100%" height="100%"/>
+</p>
+
